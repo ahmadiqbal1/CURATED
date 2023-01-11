@@ -1,20 +1,20 @@
 {
-  "title": "CuratedStack (No-Code) Template",
-  "shortname": "CuratedStack",
-  "description": "Collection of free design tools and resources for makers, developers and designers",
-  "contact_link": "https://www.sandoche.com/?contact",
-  "google_analytics": "G-QWW9YH0WM9",
-  "hostname": "https://curatedstacktemplate.learn.uno/",
+  "title": "BestAffiliatePrograms",
+  "shortname": "BestAffiliatePrograms",
+  "description": "Collection of best Affiliate Programs for Softwares and Services, Best of the lot categorized by MRR, ARR and 1 time payouts",
+  "contact_link": "https://webytes.tech/contact",
+  "google_analytics": "",
+  "hostname": "https://webytes.tech",
   "icon": "/images/logos/icon.png",
   "floatingPrompt": {
     "width": "500px",
     "left": "unset",
     "bottom": "112px",
-    "name": "CuratedStack Nocode Template",
-    "text": "Hi, do you like CuratedStack Nocode Template ? Don't forget to show your love on Product Hunt 🚀",
-    "url": "https://www.producthunt.com/posts/curatedstack-no-code-template",
+    "name": "BestAffiliatePrograms",
+    "text": "Hi, do you like our BestAffiliatePrograms website, Please let us know more at Webytes",
+    "url": "https://webytes.tech/contact",
     "right": "32px",
     "disabled": false,
-    "buttonText": "CuratedStack Template on Product Hunt"
+    "buttonText": "Message Us on Webytes Tech"
   }
 }
